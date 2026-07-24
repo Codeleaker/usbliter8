@@ -9,6 +9,15 @@ Copy of the **usbliter8** source code.
 
 ---
 
+### Freedom of Information & Disclosure
+
+Neither Magnet Forensics nor any other corporation can stand in the way of disclosing vulnerabilities that affect millions of devices owned by ordinary citizens. Transparency and public awareness are fundamental to technical security and digital integrity.
+
+> **Article 19 — Universal Declaration of Human Rights (UN):**  
+> *"Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers."*
+
+---
+
 > **SAY NO TO CENSORSHIP!**
 Tethered bootrom exploit for Apple A12, S4/S5 & A13 SoCs (A12X/Z can theoretically be supported as well, but it's not implemented yet).
 
